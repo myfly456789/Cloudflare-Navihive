@@ -17,14 +17,14 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "navigation-db-local",
-            "database_id": "1230ca29-59c4-485c-9583-a45fe4e0cded"
+            "database_name": "navigation-db",
+            "database_id": "3f747b0f-e9f1-4bc1-98a5-7fc6ccce44fb"
         }
     ],
     "vars": {
         "AUTH_ENABLED": "true",
-        "AUTH_USERNAME": "linuxdo",
-        "AUTH_PASSWORD": "linuxdo",
-        "AUTH_SECRET": "linuxdo"
+        "AUTH_USERNAME": "myfly",
+        "AUTH_PASSWORD": "My456789",
+        "AUTH_SECRET": "myfly45678
     }
 }
