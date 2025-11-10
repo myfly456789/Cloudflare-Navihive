@@ -25,7 +25,7 @@
         "AUTH_ENABLED": "true",
         "AUTH_USERNAME": "myfly",
         "AUTH_PASSWORD": "$2y$10$mB3Of1wenDYgNOALcx6DO.fa1XeA5mZkzOJsYPAC2HI3QzAZ/w0Eq",
-        "AUTH_SECRET": "4@133310526",
+        "AUTH_SECRET": "4033310526",
         "AUTH_REQUIRED_FOR_READ": "false"
     }
 }
