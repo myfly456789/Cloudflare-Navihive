@@ -24,7 +24,8 @@
     "vars": {
         "AUTH_ENABLED": "true",
         "AUTH_USERNAME": "myfly",
-        "AUTH_PASSWORD": "$2y$10$IKiG4mZ2WiLz/iJTyIzXdut.wheH7bPhIcA7gW7OThjPmPMo8DjMm9",
-        "AUTH_SECRET": "4033310526"
+        "AUTH_PASSWORD": "My456789",
+        "AUTH_SECRET": "4@133310526",
+        "AUTH_REQUIRED_FOR_READ": "false"
     }
 }
